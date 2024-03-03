@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1BM+WJdXDUYwll5xLE8Et/2TDwPRd18OhtYE3TO3rd/bb+V1tJjXpN12K/EvV2Q6sqdfgQZF28emoxJ7fs+LOw==",
+  "success": true,
+  "projectFilePath": "/home/evgeny/Public/dotnet-grpc/grpc-dotnet/examples/Container/Frontend/Frontend.csproj",
+  "expectedPackageFiles": [
+    "/home/evgeny/.nuget/packages/google.protobuf/3.24.0/google.protobuf.3.24.0.nupkg.sha512",
+    "/home/evgeny/.nuget/packages/grpc.core.api/2.58.0/grpc.core.api.2.58.0.nupkg.sha512",
+    "/home/evgeny/.nuget/packages/grpc.net.client/2.58.0/grpc.net.client.2.58.0.nupkg.sha512",
+    "/home/evgeny/.nuget/packages/grpc.net.common/2.58.0/grpc.net.common.2.58.0.nupkg.sha512",
+    "/home/evgeny/.nuget/packages/grpc.tools/2.61.0/grpc.tools.2.61.0.nupkg.sha512",
+    "/home/evgeny/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

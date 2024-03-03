@@ -1,0 +1,4 @@
+obj/Debug/net8.0/Weather.cs \
+obj/Debug/net8.0/WeatherGrpc.cs: /home/evgeny/.nuget/packages/grpc.tools/2.58.0/build/native/include/google/protobuf/timestamp.proto\
+ /home/evgeny/.nuget/packages/grpc.tools/2.58.0/build/native/include/google/protobuf/empty.proto\
+ ../Proto/weather.proto
